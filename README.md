@@ -45,8 +45,8 @@ speed = distance / time
 
 ## Installation
 ``` 
-git clone 
-cd ".\Photoelectric Sensor"
+git clone https://github.com/fatanfathirilhaq-cmd/Photoelectric-Sensor.git
+cd Photoelectric-Sensor
 pip install numpy pygame
 python main.py
 ```
