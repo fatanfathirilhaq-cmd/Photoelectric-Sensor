@@ -1,6 +1,6 @@
 # Through-Beam Photoelectric Sensor Speed Simulation
 this project simulates a speed sensor based on the operating principle of a through-beam photoelectric sensor.
-
+![Demo](Demo.gif)
 ## Key Features
 - Two laser sensors define the start points (initial) and end points (final).
 - The object moves horizontally and returns to its starting position after leaving the screen.
